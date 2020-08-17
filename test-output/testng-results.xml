@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tumblr" duration-ms="55668" started-at="2020-08-17T11:49:07 IST" finished-at="2020-08-17T11:50:03 IST">
+    <groups>
+    </groups>
+    <test name="Tumblr" duration-ms="55668" started-at="2020-08-17T11:49:07 IST" finished-at="2020-08-17T11:50:03 IST">
+      <class name="com.tumblr.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tumblr.qa.testcases.LoginPageTest@51cdd8a]" name="setUp" is-config="true" duration-ms="18855" started-at="2020-08-17T11:49:07 IST" finished-at="2020-08-17T11:49:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginfn()[pri:0, instance:com.tumblr.qa.testcases.LoginPageTest@51cdd8a]" name="loginfn" duration-ms="33998" started-at="2020-08-17T11:49:26 IST" finished-at="2020-08-17T11:50:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tumblr.qa.testcases.LoginPageTest@51cdd8a]" name="tearDown" is-config="true" duration-ms="2665" started-at="2020-08-17T11:50:00 IST" finished-at="2020-08-17T11:50:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tumblr.qa.testcases.LoginPageTest -->
+    </test> <!-- Tumblr -->
+  </suite> <!-- Tumblr -->
+</testng-results>
